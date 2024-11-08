@@ -1,0 +1,12 @@
+.backGround{
+    /* width: 100%; */
+    background-image: url(img/Coding-cuate.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    background-color:#8f83f9;
+    min-width: 500px;
+}
+.navs ul li{
+    color: hsl(0, 0%, 0%)!important;
+}
